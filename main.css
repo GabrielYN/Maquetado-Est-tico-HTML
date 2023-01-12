@@ -1,0 +1,11 @@
+.carousel-inner{
+    max-height: 36rem;
+    
+}
+
+/*=============INTRODUCICON================*/
+/*@media (max-width:768px){
+    #intro{
+        width: 90% !important;
+    }
+}
